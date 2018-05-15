@@ -7,6 +7,7 @@ Contact numbers:
 
 * (Lilly Winfree)
 * (Scott Chamberlain)
+* and others...
 
 ## Code of Conduct
 
